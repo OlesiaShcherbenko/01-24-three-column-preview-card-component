@@ -1,0 +1,16 @@
+button {
+    width: 146px;
+    height: 48px;
+    background-color: #F2F2F2;
+    border-radius: 25px;
+    color: #E28625;
+    font-size: 15px;
+    line-height: 25px;
+    font-family: "Lexend Deca", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    border: 1px;
+    margin: 0px 48px 48px;
+    padding: 0;
+}

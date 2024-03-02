@@ -1,0 +1,10 @@
+h1 {
+    font-family: "Big Shoulders Display", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 40px;
+    color: #F2F2F2;
+    margin: 35px 48px 25px;
+    text-transform: uppercase;
+}
